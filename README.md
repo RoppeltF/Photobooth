@@ -1,5 +1,5 @@
-It's just a copy with some small changes,  with time I'll work more on it.
+It's just a copy with some small changes,  in time I'll work more on it.
 
-to see the original code link below
+See the original code link below
 
 https://github.com/sabat54i/photoboothdiy
